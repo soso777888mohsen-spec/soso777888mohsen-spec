@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**soso777888mohsen-spec/soso777888mohsen-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sama Mohsen 👋
 
-Here are some ideas to get you started:
+🎓 Computing Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and continuously learning new skills.
+
+### 🌱 Areas I'm Exploring
+- Software Development
+- Web Development
+- Cybersecurity
+- Project Management
+
+### 🛠️ Technologies
+- HTML
+- CSS
+- JavaScript
+- C++ | C# | Java
+
+### 🚀 My Project
+**Notes App** — A simple application to add, edit, and delete notes.
+
+[View Live Project](https://soso777888mohsen-spec.github.io/my-learning-journey/)
+
+### 📚 My Goal
+To keep learning, building projects, and growing my skills in technology.
+
+
